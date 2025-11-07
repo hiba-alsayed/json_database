@@ -7,7 +7,7 @@
       "content": "Just finished my Flutter project! 🚀",
       "posted_at": "2 hrs ago",
       "comments_count": 3
-    },
+    }
   ],
   "comments": [
     {
@@ -17,6 +17,6 @@
       "author_email": "mohammed@example.com",
       "comment_text": "Great job! Would love to see the UI!",
       "comment_time": "21 hrs ago"
-    },
+    }
   ]
 }
