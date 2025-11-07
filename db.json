@@ -8,14 +8,6 @@
       "posted_at": "2 hrs ago",
       "comments_count": 3
     },
-    {
-      "id": 2,
-      "publisher_name": "Sara Khaled",
-      "publisher_avatar": "https://i.pravatar.cc/150?img=2",
-      "content": "Beautiful weather today ☀️🌸",
-      "posted_at": "5 hrs ago",
-      "comments_count": 2
-    }
   ],
   "comments": [
     {
@@ -26,37 +18,6 @@
       "comment_text": "Great job! Would love to see the UI!",
       "comment_time": "21 hrs ago"
     },
-    {
-      "id": 2,
-      "postId": 1,
-      "author_name": "Layla",
-      "author_email": "layla@example.com",
-      "comment_text": "Congrats 🎉",
-      "comment_time": "20 hrs ago"
-    },
-    {
-      "id": 3,
-      "postId": 1,
-      "author_name": "Omar",
-      "author_email": "omar@example.com",
-      "comment_text": "Keep it up!",
-      "comment_time": "18 hrs ago"
-    },
-    {
-      "id": 4,
-      "postId": 2,
-      "author_name": "Huda",
-      "author_email": "huda@example.com",
-      "comment_text": "Indeed! It’s lovely today ☀️",
-      "comment_time": "21 hrs ago"
-    },
-    {
-      "id": 5,
-      "postId": 2,
-      "author_name": "Yousef",
-      "author_email": "yousef@example.com",
-      "comment_text": "Perfect day for a walk!",
-      "comment_time": "19 hrs ago"
-    }
+   
   ]
 }
