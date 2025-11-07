@@ -15,7 +15,7 @@
       "id": 1,
       "postId": 1,
       "author_name": "Mohammed",
-       "commented_avatar": "https://i.pravatar.cc/150?img=1",
+      "commented_avatar": "https://i.pravatar.cc/150?img=1",
       "author_email": "mohammed@example.com",
       "comment_text": "Great job! Would love to see the UI!",
       "comment_time": "21 hrs ago"
